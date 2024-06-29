@@ -1,4 +1,6 @@
 # Zeus Network
+
+<img src="https://github.com/jonhan8352/ZeusNetwork/blob/main/images/zeus.JPG">
 Cross-Chain Communication Layer Built on SVM.
 
 ## Join Zeus Network in the Solana Takeover!
